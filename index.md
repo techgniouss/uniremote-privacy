@@ -24,6 +24,8 @@ Contact: digivaultservice@gmail.com
 
 **Saved remotes and settings.** Names, button mappings, layouts and preferences are stored only on your device. Android cloud backup is turned off for this app. Clearing the app's data or uninstalling it removes this information.
 
+**Voice commands.** If you use the Voice feature, speech is handled by Android's built-in speech recognizer on your phone (provided by Google or your phone maker, under their privacy policy). The app receives only the recognised text and uses it to send a remote key. We do not receive or store your voice or the text.
+
 **Home-screen widget.** The widget sends key presses to a remote you have saved, using the same local connections described above.
 
 ## Permissions
